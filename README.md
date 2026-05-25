@@ -8,6 +8,8 @@ geographic disparities are largest, and how outcomes differ across state and cou
 
 **Live demo:** *(deploy to Streamlit Cloud and paste URL here)*
 
+> **Repo:** https://github.com/adyasha95/health-analytics-dashboard
+
 ---
 
 ## What it does
